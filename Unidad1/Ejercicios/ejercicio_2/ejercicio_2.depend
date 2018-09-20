@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1537487548 source:c:\users\andres\documents\3_semestre_sistemas_c\estructura-de-datos-angel\unidad 1\ejercicios\ejercicio_2\main.cpp
+	<iostream>
+	"Ahorcado.h"
+
+1537486406 c:\users\andres\documents\3_semestre_sistemas_c\estructura-de-datos-angel\unidad 1\ejercicios\ejercicio_2\include\ahorcado.h
+	<iostream>
+	<time.h>
+	<string>
+	<vector>
+	<cstdlib>
+
+1537487803 source:c:\users\andres\documents\3_semestre_sistemas_c\estructura-de-datos-angel\unidad 1\ejercicios\ejercicio_2\src\ahorcado.cpp
+	"Ahorcado.h"
+	<string>
+	<iostream>
+	<time.h>
+	<vector>
+	<cstdlib>
+

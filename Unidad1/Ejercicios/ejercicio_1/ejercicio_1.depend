@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1537485370 source:c:\users\andres\documents\3_semestre_sistemas_c\estructura-de-datos-angel\unidad 1\ejercicios\ejercicio_1\main.cpp
+	<iostream>
+	"include/natural.h"
+	<stdlib.h>
+
+1537484990 c:\users\andres\documents\3_semestre_sistemas_c\estructura-de-datos-angel\unidad 1\ejercicios\ejercicio_1\include\natural.h
+
+1537484990 source:c:\users\andres\documents\3_semestre_sistemas_c\estructura-de-datos-angel\unidad 1\ejercicios\ejercicio_1\src\natural.cpp
+	"natural.h"
+	<iostream>
+

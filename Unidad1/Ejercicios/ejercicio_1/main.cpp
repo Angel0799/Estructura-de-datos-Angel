@@ -1,0 +1,33 @@
+#include <iostream>
+#include "include/natural.h"
+#include <stdlib.h>
+using namespace std;
+int main()
+{
+    int numeros[5];
+
+    cout <<" NUMEROS NATURALES \n";
+    cout <<" EJERCICIO 1\n";
+    cout <<" <INGRESA 5 NUMEROS MAYORES A 0 > \n";
+    for(int i=0; i<=4; i++){
+
+    cin >>numeros[i];
+        if (numeros[i]<0)
+        {
+            cout<<"!El numero que ingresaste no es Mayor a cero! "<<endl;
+            i--;
+        }
+    }
+    system("cls");
+    natural nat;
+    cout <<"\n\n  ANTECESORES \n";
+    nat.antecesor(numeros);
+    cout<<"\n\n SUCESOR \n";
+    nat.sucesor(numeros);
+    cout<<"\n\n SUMA \n";
+    cout <<"la suma es: "<<nat.suma(numeros);
+    cout <<"\n\n MENOR";
+    cout <<"\n numero menor es:"<<nat.menor(numeros);
+
+    return 0;
+}

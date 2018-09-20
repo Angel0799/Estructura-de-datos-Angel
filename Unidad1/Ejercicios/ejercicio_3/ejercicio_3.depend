@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1537488975 source:c:\users\andres\documents\3_semestre_sistemas_c\estructura-de-datos-angel\unidad 1\ejercicios\ejercicio_3\main.cpp
+	<iostream>
+	"Conjuntos.h"
+	<stdlib.h>
+	<string>
+
+1537489328 c:\users\andres\documents\3_semestre_sistemas_c\estructura-de-datos-angel\unidad 1\ejercicios\ejercicio_3\include\conjuntos.h
+
+1537489227 source:c:\users\andres\documents\3_semestre_sistemas_c\estructura-de-datos-angel\unidad 1\ejercicios\ejercicio_3\src\conjuntos.cpp
+	"Conjuntos.h"
+	<iostream>
+	<process.h>
+	<stdlib.h>
+
