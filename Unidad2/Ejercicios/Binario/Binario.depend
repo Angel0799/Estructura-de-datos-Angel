@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1538602997 source:c:\users\andres\documents\3_semestre_sistemas_c\estructura-de-datos-angel\unidad 1\ejercicios\binario\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+
+1538602516 source:c:\users\andres\documents\3_semestre_sistemas_c\estructura-de-datos-angel\unidad 1\ejercicios\binario\src\binario.cpp
+	"Binario.h"
+
+1538602405 c:\users\andres\documents\3_semestre_sistemas_c\estructura-de-datos-angel\unidad 1\ejercicios\binario\include\binario.h
+

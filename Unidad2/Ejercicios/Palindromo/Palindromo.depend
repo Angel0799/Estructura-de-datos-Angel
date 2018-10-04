@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1538618026 source:c:\users\andres\documents\3_semestre_sistemas_c\estructura-de-datos-angel\unidad 1\ejercicios\palindromo\main.cpp
+	<iostream>
+	<string>
+	<string.h>
+	<stdlib.h>
+
