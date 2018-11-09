@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1540354326 source:c:\users\andres\documents\3_semestre_sistemas_c\estructura-de-datos-angel\unidad3\ejercicio1_pila\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+

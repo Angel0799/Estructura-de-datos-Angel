@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1540349201 source:c:\users\andres\documents\3_semestre_sistemas_c\estructura-de-datos-angel\unidad3\ejercicio2_cola\main.cpp
+	<iostream>
+	"Pila.h"
+	"Cola.h"
+	"stdlib.h"
+
+1540189304 c:\users\andres\documents\3_semestre_sistemas_c\estructura-de-datos-angel\unidad3\ejercicio2_cola\include\pila.h
+	<iostream>
+
+1540189304 c:\users\andres\documents\3_semestre_sistemas_c\estructura-de-datos-angel\unidad3\ejercicio2_cola\include\cola.h
+	<iostream>
+
+1540189304 source:c:\users\andres\documents\3_semestre_sistemas_c\estructura-de-datos-angel\unidad3\ejercicio2_cola\src\cola.cpp
+	"cola.h"
+
+1540349451 source:c:\users\andres\documents\3_semestre_sistemas_c\estructura-de-datos-angel\unidad3\ejercicio2_cola\src\pila.cpp
+	"Pila.h"
+
